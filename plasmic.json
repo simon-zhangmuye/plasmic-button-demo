@@ -1,0 +1,113 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "wG323JFbw5EGa1mJ84z4iW",
+      "projectName": "Blank project",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
+      "components": [
+        {
+          "id": "fiUsFCPUPvg_",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "wG323JFbw5EGa1mJ84z4iW",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicHomepage.jsx",
+          "importSpec": {
+            "modulePath": "Homepage.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "3p4GgDKXnm",
+          "name": "SidebarButton",
+          "type": "managed",
+          "projectId": "wG323JFbw5EGa1mJ84z4iW",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicSidebarButton.jsx",
+          "importSpec": {
+            "modulePath": "SidebarButton.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicSidebarButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "f2YaxDbA1j",
+          "name": "SidebarItem",
+          "type": "managed",
+          "projectId": "wG323JFbw5EGa1mJ84z4iW",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicSidebarItem.jsx",
+          "importSpec": {
+            "modulePath": "SidebarItem.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicSidebarItem.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        }
+      ],
+      "icons": [
+        {
+          "id": "_2IQcD74H4",
+          "name": "GgmenuGridRIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__GgmenuGridR.jsx"
+        },
+        {
+          "id": "RHoIVl6U1y",
+          "name": "BxbxFoodMenuIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__BxbxFoodMenu.jsx"
+        },
+        {
+          "id": "sLFpFPhj2s",
+          "name": "AntDesignmenuUnfoldOutlinedIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__AntDesignmenuUnfoldOutlined.jsx"
+        },
+        {
+          "id": "9ChvWW7Aqa",
+          "name": "AntDesignmenuFoldOutlinedIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__AntDesignmenuFoldOutlined.jsx"
+        }
+      ],
+      "images": [],
+      "projectApiToken": "rq6rQtYYtlB6y9kEuROMon0cb5EDseYL13bqOQ4Xl40BbWtktyqCKR0gVoDF3sseeSoOw5O0ODiyuy6mwFeg"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "VSWuhI-PbsjF",
+        "name": "Screen",
+        "projectId": "wG323JFbw5EGa1mJ84z4iW",
+        "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__Screen.jsx"
+      },
+      {
+        "id": "yexwK6-nIu",
+        "name": "SidebarState",
+        "projectId": "wG323JFbw5EGa1mJ84z4iW",
+        "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__SidebarState.jsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.145",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.145/dist/plasmic.schema.json"
+}

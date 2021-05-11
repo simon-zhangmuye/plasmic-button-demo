@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "projectId": "wG323JFbw5EGa1mJ84z4iW",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "VSWuhI-PbsjF",
+          "checksum": "54b3e172eea47f841fa149569061f860"
+        },
+        {
+          "type": "globalVariant",
+          "assetId": "yexwK6-nIu",
+          "checksum": "aa92ef5fd014e5953e035bcf0488556c"
+        },
+        {
+          "assetId": "wG323JFbw5EGa1mJ84z4iW",
+          "type": "projectCss",
+          "checksum": "88aa2e911668ed4fb2f2bf6ee7ff99a4"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "fiUsFCPUPvg_",
+          "checksum": "64e7bb55a61bd0501bef221bb888a8b2"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "fiUsFCPUPvg_",
+          "checksum": "64e7bb55a61bd0501bef221bb888a8b2"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "3p4GgDKXnm",
+          "checksum": "131098a7cadfd5d965c8c902fd4415e7"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "3p4GgDKXnm",
+          "checksum": "131098a7cadfd5d965c8c902fd4415e7"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "f2YaxDbA1j",
+          "checksum": "7228d01e38230a1bc101a8a6f87527ee"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "f2YaxDbA1j",
+          "checksum": "7228d01e38230a1bc101a8a6f87527ee"
+        },
+        {
+          "type": "icon",
+          "assetId": "_2IQcD74H4",
+          "checksum": "a5661cf222b24529384a802716771899"
+        },
+        {
+          "type": "icon",
+          "assetId": "RHoIVl6U1y",
+          "checksum": "7ddc319cfe59521081ae551bca1ade02"
+        },
+        {
+          "type": "icon",
+          "assetId": "sLFpFPhj2s",
+          "checksum": "eb80c0a3a459942bb27c5c319597f8d2"
+        },
+        {
+          "type": "icon",
+          "assetId": "9ChvWW7Aqa",
+          "checksum": "e3b508d70cd6d1112f7f2c273b24d5ca"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "0.1.145"
+}

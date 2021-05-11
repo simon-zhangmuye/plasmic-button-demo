@@ -1,0 +1,109 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+  background: #ffffff;
+}
+.header {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: 100px;
+  min-width: 0;
+  flex-shrink: 0;
+  background: #00579494;
+}
+.sidebarButton:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+.body {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.sidebar {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 300px;
+  height: 100%;
+  transition-property: all;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  flex-shrink: 0;
+  min-height: 0;
+  background: #5443f9a8;
+}
+.sidebar__global_sidebarState_close {
+  width: 88px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.sidebarItem__ji20L:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.svg__rjf5Q {
+  position: relative;
+  object-fit: cover;
+  width: 48px;
+  height: 48px;
+  color: #000;
+  display: block;
+  overflow: hidden;
+  left: auto;
+  top: auto;
+  margin-left: 0;
+  margin-right: 0;
+}
+.sidebarItem__n34Gr:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.sidebarItem__global_sidebarState_close__n34GRn6N9:global(.__wab_instance) {
+  flex-shrink: 0;
+}
+.svg {
+  position: relative;
+  object-fit: cover;
+  width: 48px;
+  height: 48px;
+  color: #000;
+  display: block;
+  overflow: hidden;
+  left: auto;
+  top: auto;
+  margin-left: 0;
+  margin-right: 0;
+}
+.main {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
